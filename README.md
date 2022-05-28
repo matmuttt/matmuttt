@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matmuttt
-- 👀 I’m interested in coding and vidéo games
-- 🌱 I’m currently learning python and HTML/CSS
+- 👀 I’m interested in coding and video games
+- 🌱 I’m currently learning python, HTML and CSS
 - 💞️ I’m looking to collaborate on OMNIS PROJECT
 - 📫 How to reach me starcrowjunior@gmail.com
 
